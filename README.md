@@ -4,12 +4,18 @@
 <br/>
 
 Adım Talha, internet ortamında "Gokturk" adını kullanıyorum. <br/>
-[İletişim](https://github.com/MrGokturk/mrgokturk/blob/Default/iletisim.md)
 
 <br/>
 
+[**İletişim için Tıkla**](https://github.com/MrGokturk/mrgokturk/blob/Default/iletisim.md) <br/>
+<br/>
+[**Documents**](https://docs.mrgokturk.tk//)
+
+<br/>
+<br/>
+
 ```html
-                                        <html><p>Hello World!</p></html>
+                                           <html><p>Hello World!</p></html>
 ```
 <br/>
 
