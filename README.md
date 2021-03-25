@@ -4,7 +4,7 @@
 <br/>
 
 Adım Talha, internet ortamında "Gokturk" adını kullanıyorum. <br/>
-[Website](mrgokturk.github.io)
+[Website](https://mrgokturk.github.io)
 
 <br/>
 
@@ -13,9 +13,9 @@ Adım Talha, internet ortamında "Gokturk" adını kullanıyorum. <br/>
 <br/>
 
 **Mail** [mrgokturk@protonmail.com](mailto:mrgokturk@protonmail.com) <br/>
-**Reddit** [reddit.mrgokturk.xyz](reddit.mrgokturk.tk) <br/>
-**Github** [github.mrgokturk.xyz](github.mrgokturk.tk) <br/>
-**Gitbook** [docs.mrgokturk.xyz](docs.mrgokturk.tk) <br/>
+**Reddit** [reddit.mrgokturk.xyz](https://reddit.mrgokturk.tk) <br/>
+**Github** [github.mrgokturk.xyz](https://github.mrgokturk.tk) <br/>
+**Gitbook** [docs.mrgokturk.xyz](https://docs.mrgokturk.tk) <br/>
 
 <br/>
 <br/>
