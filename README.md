@@ -4,7 +4,7 @@
 <br/>
 
 Adım Talha, internet ortamında "Gokturk" adını kullanıyorum. <br/>
-[Website](https://mrgokturk.github.io)
+[Website](https://mrgokturk.xyz)
 
 <br/>
 
